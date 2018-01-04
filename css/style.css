@@ -83,8 +83,7 @@ a:active{
 }
 
 html{
-	background:
-			url(../backgrounds/b1.png) no-repeat center center fixed;
+	background:url(../images/b1.png) no-repeat center center fixed;
 	/*Image for the full size image background. If you want to have a color as a background, just remove the complete html{} style and uncomment the last line in the body{}*/
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
